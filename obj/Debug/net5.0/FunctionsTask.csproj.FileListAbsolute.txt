@@ -1,0 +1,16 @@
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\FunctionsTask.exe
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\FunctionsTask.deps.json
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\FunctionsTask.runtimeconfig.json
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\FunctionsTask.runtimeconfig.dev.json
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\FunctionsTask.dll
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\ref\FunctionsTask.dll
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\bin\Debug\net5.0\FunctionsTask.pdb
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.csprojAssemblyReference.cache
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.AssemblyInfoInputs.cache
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.AssemblyInfo.cs
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.csproj.CoreCompileInputs.cache
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.dll
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\ref\FunctionsTask.dll
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.pdb
+D:\Uni\Swinburne\Intro to OO\FunctionsTask\obj\Debug\net5.0\FunctionsTask.genruntimeconfig.cache
